@@ -140,7 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="06112021.cpp" />
-    <ClCompile Include="Figure.cpp" />
+    <ClCompile Include="13112021.cpp" />
     <ClCompile Include="Fraction.cpp" />
     <ClCompile Include="FractionAdder.cpp" />
     <ClCompile Include="Rectangle.cpp" />
