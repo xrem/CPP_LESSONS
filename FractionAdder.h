@@ -1,6 +1,5 @@
 #pragma once
-
-#include "Fraction.h"
+class Fraction;
 
 class FractionAdder
 {

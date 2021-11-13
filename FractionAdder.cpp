@@ -1,4 +1,5 @@
 #include "FractionAdder.h"
+#include "Fraction.h"
 
 Fraction FractionAdder::add(const Fraction& left, const Fraction& right) {
 	int denominator = left.m * right.m;

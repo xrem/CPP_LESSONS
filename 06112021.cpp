@@ -8,7 +8,6 @@ int main()
 {
     Fraction half(1, 2);
     Fraction three_quarters(3, 4);
-    //FractionAdder adder;
 
     Figure* figure = new Rectangle(2, 3);
 
