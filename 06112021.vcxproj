@@ -141,14 +141,17 @@
   <ItemGroup>
     <ClCompile Include="06112021.cpp" />
     <ClCompile Include="13112021.cpp" />
+    <ClCompile Include="20112021.cpp" />
     <ClCompile Include="Fraction.cpp" />
     <ClCompile Include="FractionAdder.cpp" />
+    <ClCompile Include="MyOOR.cpp" />
     <ClCompile Include="Rectangle.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Figure.h" />
     <ClInclude Include="Fraction.h" />
     <ClInclude Include="FractionAdder.h" />
+    <ClInclude Include="MyOOR.h" />
     <ClInclude Include="Rectangle.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
